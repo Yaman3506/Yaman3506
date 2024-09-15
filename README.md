@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GOUA Bootcamp**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Development**
 
 - ⚡ Fun fact **my tennis serves are so bad these days.**
 
