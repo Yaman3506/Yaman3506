@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yaman özdoğan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaman özdoğan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yamanozdogan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaman özdoğan" height="30" width="40" /></a>
 <a href="https://instagram.com/yaman.ozdogann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaman.ozdogann" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yaman35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaman35" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/YamanOzdogan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yaman35" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
