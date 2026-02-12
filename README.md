@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaman3506&label=Profile%20views&color=0e75b6&style=flat" alt="yaman3506" /> </p>
 
-- 🔭 I’m currently working on **GOUA Bootcamp**
+- 🔭 I’m currently working on my own **ML Projects**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Transformers**
 
 - ⚡ Fun fact **my tennis serves are so bad these days.**
 
